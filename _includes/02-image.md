@@ -1,1 +1,1 @@
-![mage]https://rowanrookanddecard.com/class-breakdown-the-junk-mage/
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
